@@ -1,0 +1,10 @@
+@media screen and (max-width:1200){
+  #top-content .wrap {
+    width: 100%;
+    margin: 0px auto;
+    .main{
+      right:20px;
+    }
+  }
+
+}
